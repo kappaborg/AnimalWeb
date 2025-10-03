@@ -1,0 +1,40 @@
+{
+  "title": "挑战",
+  "speaking": {
+    "name": "口语挑战",
+    "description": "练习您的发音",
+    "start": "开始口语"
+  },
+  "listening": {
+    "name": "听力挑战",
+    "description": "测试您的听力技能",
+    "start": "开始听力"
+  },
+  "writing": {
+    "name": "书写挑战",
+    "description": "练习书写词汇",
+    "start": "开始书写",
+    "checkAnswer": "检查答案",
+    "correct": "正确！",
+    "incorrect": "不太对",
+    "tryAgain": "再试一次",
+    "showPattern": "显示书写模式",
+    "writingPattern": "书写模式",
+    "strokeOrder": "笔画顺序",
+    "tips": "书写技巧",
+    "hidePattern": "隐藏模式",
+    "step1": "从第一笔开始",
+    "step2": "按照正确方向",
+    "step3": "完成所有笔画",
+    "tip1": "慢慢仔细地写",
+    "tip2": "遵循笔画顺序",
+    "tip3": "熟能生巧",
+    "completed": "挑战完成！",
+    "score": "您的分数：{{score}}%",
+    "noWords": "未找到单词",
+    "tryDifferent": "请尝试不同的类别或难度级别",
+    "progress": "进度",
+    "word": "单词"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "title": "Vocabulary",
+  "search": {
+    "placeholder": "Search vocabulary...",
+    "noResults": "No results found for \"{{query}}\"",
+    "resultsCount": "{{count}} results found"
+  },
+  "card": {
+    "playAudio": "Play pronunciation",
+    "showDefinition": "Show definition",
+    "addToFavorites": "Add to favorites",
+    "viewDetails": "View details"
+  },
+  "details": {
+    "word": "Word",
+    "pronunciation": "Pronunciation",
+    "definition": "Definition",
+    "example": "Example",
+    "translation": "Translation",
+    "difficulty": "Difficulty",
+    "category": "Category",
+    "tags": "Tags"
+  }
+}
+

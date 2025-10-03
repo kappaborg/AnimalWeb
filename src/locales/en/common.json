@@ -1,0 +1,47 @@
+{
+  "app": {
+    "name": "AnimalWeb",
+    "tagline": "Master English Vocabulary Offline"
+  },
+  "actions": {
+    "play": "Play",
+    "pause": "Pause",
+    "favorite": "Add to Favorites",
+    "unfavorite": "Remove from Favorites",
+    "share": "Share",
+    "close": "Close",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "filter": "Filter",
+    "retry": "Retry",
+    "start": "Start",
+    "continue": "Continue",
+    "finish": "Finish"
+  },
+  "states": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "empty": "No items found",
+    "offline": "You are offline",
+    "success": "Success!",
+    "syncing": "Syncing..."
+  },
+  "difficulty": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "wordTypes": {
+    "noun": "Noun",
+    "verb": "Verb",
+    "adjective": "Adjective",
+    "adverb": "Adverb"
+  }
+}
+

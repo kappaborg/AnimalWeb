@@ -1,0 +1,40 @@
+{
+  "title": "Challenges",
+  "speaking": {
+    "name": "Speaking Challenge",
+    "description": "Practice your pronunciation",
+    "start": "Start Speaking"
+  },
+  "listening": {
+    "name": "Listening Challenge",
+    "description": "Test your listening skills",
+    "start": "Start Listening"
+  },
+  "writing": {
+    "name": "Writing Challenge",
+    "description": "Practice writing vocabulary",
+    "start": "Start Writing",
+    "checkAnswer": "Check Answer",
+    "correct": "Correct!",
+    "incorrect": "Not quite right",
+    "tryAgain": "Try Again",
+    "showPattern": "Show Writing Pattern",
+    "writingPattern": "Writing Pattern",
+    "strokeOrder": "Stroke Order",
+    "tips": "Writing Tips",
+    "hidePattern": "Hide Pattern",
+    "step1": "Start with the first stroke",
+    "step2": "Follow the correct direction",
+    "step3": "Complete all strokes",
+    "tip1": "Write slowly and carefully",
+    "tip2": "Follow the stroke order",
+    "tip3": "Practice makes perfect",
+    "completed": "Challenge Completed!",
+    "score": "Your Score: {{score}}%",
+    "noWords": "No words found",
+    "tryDifferent": "Try a different category or difficulty level",
+    "progress": "Progress",
+    "word": "Word"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "title": "词汇",
+  "search": {
+    "placeholder": "搜索词汇...",
+    "noResults": "未找到 \"{{query}}\" 的结果",
+    "resultsCount": "找到 {{count}} 个结果"
+  },
+  "card": {
+    "playAudio": "播放发音",
+    "showDefinition": "显示定义",
+    "addToFavorites": "添加到收藏",
+    "viewDetails": "查看详情"
+  },
+  "details": {
+    "word": "单词",
+    "pronunciation": "发音",
+    "definition": "定义",
+    "example": "例句",
+    "translation": "翻译",
+    "difficulty": "难度",
+    "category": "分类",
+    "tags": "标签"
+  }
+}
+

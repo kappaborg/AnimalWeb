@@ -1,0 +1,31 @@
+{
+  "total": 3498,
+  "byCategory": {
+    "education": 82,
+    "various": 2225,
+    "food": 139,
+    "transportation": 80,
+    "animals": 199,
+    "actions-verbs": 142,
+    "clothing": 60,
+    "nature": 123,
+    "time": 41,
+    "body": 127,
+    "house": 84,
+    "numbers": 79,
+    "family": 44,
+    "geography": 48,
+    "colors": 25
+  },
+  "byDifficulty": {
+    "beginner": 1306,
+    "intermediate": 1404,
+    "advanced": 788
+  },
+  "byWordType": {
+    "noun": 2568,
+    "adjective": 814,
+    "verb": 122,
+    "adverb": 93
+  }
+}
